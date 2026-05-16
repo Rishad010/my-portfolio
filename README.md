@@ -130,5 +130,5 @@ Every push to the `main` branch triggers an automatic redeployment via Vercel's 
 ---
 
 <div align="center">
-  <sub>Designed & built by Md Rishad · [Year]</sub>
+  <sub>Designed & built by Md Rishad · [2026]</sub>
 </div>

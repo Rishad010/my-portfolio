@@ -10,7 +10,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 
-**[My Portfolio →][[https://mdrishad.vercel.app/](https://mdrishad.vercel.app/)]**
+**[My Portfolio →][[mdrishad.vercel.app](https://mdrishad.vercel.app)]**
 
 </div>
 

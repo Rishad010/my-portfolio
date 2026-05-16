@@ -124,8 +124,8 @@ Every push to the `main` branch triggers an automatic redeployment via Vercel's 
 **Md Rishad**
 
 - Email: [mdrishad186@gmail.com]
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/mdrishad)
-- GitHub: [github.com/your-username](https://github.com/Rishad010)
+- LinkedIn: [linkedin.com/in/mdrishad](https://www.linkedin.com/in/mdrishad)
+- GitHub: [github.com/Rishad010](https://github.com/Rishad010)
 
 ---
 

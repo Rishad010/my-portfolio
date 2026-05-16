@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Your Name] — Personal Portfolio
+# Md Rishad — Personal Portfolio
 
 ### A premium, celestial-themed personal portfolio built with Next.js 15
 
@@ -121,14 +121,14 @@ Every push to the `main` branch triggers an automatic redeployment via Vercel's 
 
 ## Contact
 
-**[Your Name]**
+**Md Rishad**
 
-- Email: [your-email@example.com]
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- GitHub: [github.com/your-username](https://github.com/your-username)
+- Email: [mdrishad186@gmail.com]
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/mdrishad)
+- GitHub: [github.com/your-username](https://github.com/Rishad010)
 
 ---
 
 <div align="center">
-  <sub>Designed & built by [Your Name] · [Year]</sub>
+  <sub>Designed & built by Md Rishad · [Year]</sub>
 </div>

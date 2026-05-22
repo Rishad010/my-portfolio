@@ -1,7 +1,7 @@
 "use client";
 import { motion } from "framer-motion";
 import Image from "next/image";
-import profile from "../profile.jpg";
+import profile from "../profile.png";
 import { FaLaptopCode, FaCloud, FaQuinscape } from "react-icons/fa";
 import { SiCyberdefenders } from "react-icons/si";
 
